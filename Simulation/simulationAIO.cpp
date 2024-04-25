@@ -1,0 +1,6 @@
+#include "simulation.h"
+#include "simulationException.hpp"
+#include "random.cpp"
+#include "brownian.cpp"
+#include "heston.cpp"
+#include "stocReturn.cpp"

@@ -1,0 +1,7 @@
+- Création d'une classe exception comme classe mère de toutes classe d'exception existante afin tenir un fichier de LOG et simplifier la gestion des exceptions.
+- Implémentation GPU des simulations avec openCL
+- Amélirer la classe tabExt :
+   + pour qu'elle s'adapte de façon dynamique  au pourcentage de mémoire utiliser
+   + s'assurer de performance optimale et d'une bonne utilisation de cache (éventuellement coder certaine partie en assambleur)
+   + solidifier le tout avec nottement des exceptions lié à l'utilisation de la mémoire
+- Attaqué la partie clibration des modèles de simulations sur données boursières
